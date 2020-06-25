@@ -1,0 +1,19 @@
+331 Teacher1 1 2 3 4 6 20
+332 Teacher2 1 2 3 4 6 20
+333 Teacher3 1 2 3 4 6 20
+334 Teacher4 5 6 18
+335 Teacher5 5 6 18
+336 Teacher6 6 7 8 9 6 20
+337 Teacher7 6 7 8 9 6 20
+338 Teacher8 10 12 6 12
+339 Teacher9 11 13 6 18
+340 Teacher10 11 13 6 18
+341 Teacher11 14 6 18
+342 Teacher12 15 6 18
+343 Teacher13 16 6 18
+344 Teacher14 17 18 6 18
+345 Teacher15 19 6 9
+346 Teacher16 20 6 9
+347 Teacher17 5 6 18
+348 Teacher18 1 2 3 4 6 20
+349 Teacher19 1 2 3 4 6 15
